@@ -98,7 +98,7 @@ def question3():
     answers = {}
 
     # type: a string that evaluates to a float
-    answers["(a) SSE"] = 7.5
+    answers["(a) SSE"] = 4*R*R
 
     # type: a string that evaluates to a float
     answers["(b) SSE"] = 7.5
